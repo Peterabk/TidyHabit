@@ -1,8 +1,17 @@
-# Welcome to your Lovable project
-
+# Welcome to our TidyHabit project
+-Peter Abou Kassam
+-Yasser Ameer
+-Samuel Sebaale
+-Theo
+-Ray
 ## Project info
 
-This project is about a Chore web app that could remove the stress of remembering what you need to do.
+TidyHabit is an application that allows people to right down all their chores and tasks,
+So they can live stress free and be notified when they need to do their chores.
+
+It's targeted audience are people with families who would like more order in their house,
+or busy group of people who can't handle thinking about everything all at once,
+or a group project that needs to be organized and track each member's work progress.
 
 ## What technologies are used for this project?
 
@@ -13,6 +22,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-We relied on multiple plugins and online libraries to get the project going and ready.
-Since this is a prototype of a real application.

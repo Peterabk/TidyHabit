@@ -46,7 +46,7 @@ const SignupForm: React.FC<SignupFormProps> = ({ onSignup }) => {
     // This would normally send data to a backend
     toast({
       title: "Account Created",
-      description: `Welcome to Chore Crew Organizer, ${data.familyName}!`,
+      description: `Welcome to TidyHabit, ${data.familyName}!`,
     });
     
     onSignup();

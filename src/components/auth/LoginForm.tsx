@@ -39,7 +39,7 @@ const LoginForm: React.FC<LoginFormProps> = ({ onLogin, onForgotPassword }) => {
     // This would normally check credentials against a backend
     toast({
       title: "Login Successful",
-      description: "Welcome back to Chore Crew Organizer!",
+      description: "Welcome back to TidyHabit!",
     });
     
     onLogin();

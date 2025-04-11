@@ -34,7 +34,7 @@ const AuthPage: React.FC<AuthPageProps> = ({ onLogin, isAuthenticated }) => {
     <div className="min-h-screen bg-gradient-to-b from-teal-50 to-teal-100 flex items-center justify-center p-4">
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-teal-700">Chore Crew Organizer</h1>
+          <h1 className="text-3xl font-bold text-teal-700">TidyHabit</h1>
           <p className="text-teal-600 mt-2">Manage your family tasks efficiently</p>
         </div>
 

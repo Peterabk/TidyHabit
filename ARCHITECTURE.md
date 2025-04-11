@@ -1,11 +1,11 @@
 
-# Chore Crew Organizer - Architecture Documentation
+# TidyHabit - Architecture Documentation
 
-This document provides an overview of the technical architecture for the Chore Crew Organizer application.
+This document provides an overview of the technical architecture for the TidyHabit application.
 
 ## System Overview
 
-Chore Crew Organizer is a React-based web application for families to manage household chores and tasks. The application allows users to:
+TidyHabit is a React-based web application for families to manage household chores and tasks. The application allows users to:
 
 - Track family members
 - Assign and monitor tasks/chores
