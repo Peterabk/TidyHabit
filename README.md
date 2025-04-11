@@ -1,5 +1,9 @@
-# Welcome to your Lovable project
-
+# Welcome to our project
+-Peter Abou Kassam
+-Yasser Ameer
+-Samuel Sebaale
+-Theo
+-Ray
 ## Project info
 
 This project is about a Chore web app that could remove the stress of remembering what you need to do.
