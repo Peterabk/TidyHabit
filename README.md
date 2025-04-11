@@ -5,7 +5,7 @@
 - Samuel Sebaale
 - Theo
 - Ray
-- 
+  
 ## Project info
 
 TidyHabit is an application that allows people to right down all their chores and tasks,
