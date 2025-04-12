@@ -24,3 +24,9 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+##To run the project
+- clone the repo
+- install node.js
+- run : npm install
+- run : npm run dev
