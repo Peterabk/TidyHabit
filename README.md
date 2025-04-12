@@ -25,7 +25,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-##To run the project
+## To run the project
 - clone the repo
 - install node.js
 - run : npm i
