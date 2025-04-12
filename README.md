@@ -1,11 +1,12 @@
 # Welcome to **TidyHabit** 🧹✨
 
 Created by:
-Yasser Ameer 40212780
-Theodor-Alexandru Salcianu 40209641
-Samuel Sebaaly 40084264
-Ryan Washer 40209375
-Peter Abou Kassam 40157317
+- Peter Abou Kassam 40157317
+- Yasser Ameer 40212780
+- Theodor-Alexandru Salcianu 40209641
+- Samuel Sebaaly 40084264
+- Ryan Washer 40209375
+
 ---
 
 ## 📘 Project Overview
