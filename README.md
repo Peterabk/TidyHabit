@@ -28,5 +28,5 @@ This project is built with:
 ##To run the project
 - clone the repo
 - install node.js
-- run : npm install
+- run : npm i
 - run : npm run dev
